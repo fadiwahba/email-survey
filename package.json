@@ -1,0 +1,14 @@
+{
+  "name": "email-survey",
+  "version": "1.0.0",
+  "description": "An email survey app that helps business owners to make decisions based on the customers feedback. Built with MERN stack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fadi.wahba@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
